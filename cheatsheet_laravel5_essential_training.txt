@@ -1,0 +1,45 @@
+Lynda.com - Laravel 5 Essential Training 1 The Basics
+
+Set up your local environment (Mac)
+
+Xcode9
+https://developer.apple.com/xcode
+Note: inmiddels is er Xcode10 maar die draait niet op Mac OS El Capitan 10.11.6
+
+Homebrew
+https://brew.sh
+
+Fishshell
+http://www.fishshell.com
+
+Git
+https://www.git-scm.com
+
+GitHub
+https://www.github.com
+
+Visual Studio Code
+https://code.visualstudio.com
+
+Mamp
+https://www.mamp.info
+Note: for use PHP7 and MySQL. Don’t need of Apache because we use local server in Laravel.
+
+Composer
+https://www.getcomposer.org
+Note: for dependency installation
+
+Check in Terminal versions:
+
+php —-version
+composer —-version
+git —-version
+mysql -u root -proot (note: op Mac start je MySQL/MariaDB anders, zie Evernote artikel in PHPMySQL map. In Terminal aparte shell aangemaakt om snel te kunnen opstarten.)
+
+For part 2 of the course:
+
+VirtualBox
+https://www.virtualbox.org/wiki/virtualbox
+
+Vagrant
+https://www.vagrantup.com/docs
